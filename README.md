@@ -1,4 +1,4 @@
-<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM🦖</b></h1>
+<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM᷂᷂🦖</b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
@@ -7,7 +7,7 @@
     <a href="https://www.python.org/" alt="اللغة المستخدمة"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 </p>
 ## 🧪الحصول علي جلسة البيوجرام:
-[![جلسة بيوجرام]<a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/Mahmod777777/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=Mahmod777777"></a>
+[![جلسة بيوجرام]<a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=ELRASAM"></a>
 
 ## 𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM 
 <p align="center">
@@ -53,7 +53,7 @@
 | `/rmd` | مسح جميع الملفات المحمله |
 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soursafyona/bonnU)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soursELRASAM/bonnU)
 
 
 
@@ -66,4 +66,4 @@
 
 
 مطــــــــور السورس ¦🦦
-<a href="Mahmod777777"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=Mahmod777777"></a> <a href="https://t.me/Mahmod777777"><img src="https://img.shields.io/badge/Mahmod777777-blue.svg?style=for-the-badge&logo="Mahmod777777"></a> <a href="https://t.me/IVNII"><img src="https://img.shields.io/badge/Mahmod777777-blue.svg?style=for-the-badge&logo=Mahmod777777"></a>
+<a href="https://t.me/Mahmod777777"><img src="https://img.shields.io/badge/Dev%20ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_L_R_A_S_A_M"><img src="https://img.shields.io/badge/يـــــوزرا آلَرًسًــــــــآمِ-blue.svg?style=for-the-badge&logo=ELRASAM"></a> <a href="https://t.me/E_R_S_A_M1"><img src="https://img.shields.io/badge/ELRASAM2-blue.svg?style=for-the-badge&logo=ELRASAM"></a>
