@@ -7,7 +7,7 @@
     <a href="https://www.python.org/" alt="اللغة المستخدمة"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 </p>
 ## 🧪الحصول علي جلسة البيوجرام:
-[![جلسة بيوجرام]<a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=ELRASAM"></a>
+[![جلسة بيوجرام]<a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/ELRASAMbot"><img src="https://img.shields.io/Mahmod777777/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=Mahmod777777"></a>
 
 ## 𝗦𝗨𝗢𝗥𝗖𝗘 ELRASAM 
 <p align="center">
@@ -66,4 +66,4 @@
 
 
 مطــــــــور السورس ¦🦦
-<a href="@Mahmod777777"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=AFYONA"></a> <a href="https://t.me/ELRASRM"><img src="https://img.shields.io/badge/ELRASAM-blue.svg?style=for-the-badge&logo="ELRASAM"></a> <a href="https://t.me/IVNII"><img src="https://img.shields.io/badge/ELRASAM-blue.svg?style=for-the-badge&logo=ELRASAM"></a>
+<a href="Mahmod777777"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=Mahmod777777"></a> <a href="https://t.me/Mahmod777777"><img src="https://img.shields.io/badge/Mahmod777777-blue.svg?style=for-the-badge&logo="Mahmod777777"></a> <a href="https://t.me/IVNII"><img src="https://img.shields.io/badge/Mahmod777777-blue.svg?style=for-the-badge&logo=Mahmod777777"></a>
